@@ -40,6 +40,10 @@ form .display input{
   box-shadow: none;
   font-size: 45px;
 }
+.buttons input:hover{
+  color: black;
+  background-color: white;
+}
 
 form input.equal{
   width: 135px;
